@@ -4,6 +4,11 @@
 import re
 import csv
 
+# This is a Python script which reads a txt file with information
+# that has a list of proteins with an idcode, protein sequence, and a crystallization status (crystallized or not)
+# The script processes the text file and writes a label 1 or 0 for crystallization success or not
+# 1 being a protein crystal formed and 0 for failure
+
 class pcrystal():
     def __init__(self, id, seq):
         self.id  = id
