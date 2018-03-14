@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
-
+# This Ruby script reads a DNA sequence and
+# creates a codon count for all 3 Reading Frames of the DNA sequence
 require 'bio'
 
 # create a DNA sequence
