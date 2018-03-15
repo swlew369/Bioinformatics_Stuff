@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-
+# For Coursera DNA Sequencing course project
 import bisect
 from itertools import permutations,combinations
 
