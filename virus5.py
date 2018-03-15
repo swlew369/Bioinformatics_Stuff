@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 
-# For Coursera DNA Sequencing course project
+# For Coursera DNA Sequencing course final project
+# where you reconstruct a virus sequence 
 import bisect
 from itertools import permutations,combinations
 
